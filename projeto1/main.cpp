@@ -1,8 +1,12 @@
 #include <iostream>
+#include "sculptor.h"
+
 
 using namespace std;
 
-int main()
-{
-  std::cout<<"se rodar, deu certo \n";
+int main(){
+
+
+
+
 }
